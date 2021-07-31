@@ -80,7 +80,7 @@ int main(void)
 {
     char equa[SBUFF];
     char *tok, *freetok, *bn;
-    int num, n1, n2, res;
+    int num = 0, n1 = 0, n2 = 0, res = 0;
     pilha_t *pil=NULL;
     int fim=0;
 
@@ -141,6 +141,9 @@ int main(void)
         }
     }
 
+    
+    printf(" %d \n\n\n ", res);
+    
     printf("Total de elementos na pilha: %d\n", total(TOT));
     printf("Elemento do topo: ");
     num=top(pil);
