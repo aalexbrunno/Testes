@@ -6,7 +6,7 @@ int main(void)
 
   printf("resolvendo o conflito\n");
   
-
+  printf("Conflito resolvido \n");
 
    return 0;
 }
