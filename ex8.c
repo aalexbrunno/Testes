@@ -4,8 +4,8 @@
 int main(void)
 {
 
-
-
+  printf("resolvendo o conflito\n");
+  
 
 
    return 0;
