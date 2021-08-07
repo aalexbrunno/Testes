@@ -8,5 +8,7 @@ int main(void)
   
   printf("Conflito resolvido \n");
 
-   return 0;
+  printf("Tudo certo \n"); 
+  
+  return 0;
 }
