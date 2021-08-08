@@ -86,6 +86,8 @@ int main(void)
 
     printf("Calculadora Polonesa v0.2, by Dr. Beco\n");
     printf("Digite uma expressao em notacao pos-fixa:\n");
+    printf("Digite a tecla 'q' para sair da execucao\n")
+
 
     fgets(equa, SBUFF, stdin);
     bn=strchr(equa, '\n');
