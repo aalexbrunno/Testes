@@ -10,8 +10,6 @@ int main(void)
 
   printf("Tudo certo \n"); 
   
-//  fffsksdjsdksjdksdkdjksjdskdks
-//  sksksdjksds
       
       return 0;
 }
