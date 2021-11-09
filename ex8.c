@@ -4,7 +4,7 @@
 int main(void)
 {
 
-  printf("resolvendo o conflito\n");
+  printf("resolvendo os conflitos\n");
   
   printf("Conflito resolvido \n");
 
