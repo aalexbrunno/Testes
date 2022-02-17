@@ -11,7 +11,8 @@ int main(void)
   printf("Tudo certo \n"); 
   
   printf("Tudo chave ssh \n");
-     
+  
+   printf("chave ssh configurada com exito \n");
 
       return 0;
 }
